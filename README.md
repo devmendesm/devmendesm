@@ -13,6 +13,6 @@
     <img align="center" alt="Css" heigth="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />
     <img align="center" alt="MySql" heigth="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" />   
     
-</div>
+</div><br/>
 
 Amo como a tecnologia pode transformar a vida das pessoas
