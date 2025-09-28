@@ -7,7 +7,7 @@
 ## Tecnologias que utilizei até o momento
 <div style ="display: inline-block">
     <img align="center" alt="Java" heigth="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
-    <img align="center" alt="CSharp" heigth="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+    <img align="center" alt="CSharp" heigth="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-plain.svg" />
     <img align="center" alt="Python" heigth="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
     <img align="center" alt="Php" heigth="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
     <img align="center" alt="Html" heigth="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
